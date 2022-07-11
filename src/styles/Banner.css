@@ -1,0 +1,10 @@
+.Read{
+    color: white;
+}
+.Read:hover{
+    color: white;
+    text-decoration: none;
+}
+.Img{
+    filter: brightness(50%);
+}
